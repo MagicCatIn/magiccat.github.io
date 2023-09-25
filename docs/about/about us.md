@@ -1,6 +1,7 @@
 ## Our Story
 
 The journey of Magic Cat began during the challenging times of the pandemic when two kindred spirits, Liz and Nanditha, found themselves drawn together by their shared love for cats. Their chance encounter sparked a beautiful friendship and a shared vision - to create a haven for cats in Kerala, a place where abandoned, motherless kittens, injured, paraplegic cats, and all feline friends could find the care, love, and support they deserve.
+![](./images/about/us.jpg)
 
 ## Our Mission
 
