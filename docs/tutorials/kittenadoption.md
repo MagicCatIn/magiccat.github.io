@@ -16,7 +16,7 @@ The chicken we buy from poultry farms and the fish from the markets might contai
 
 You can also buy commercially available cat food which dry kibbles. Wet food is also available but it is expensive to give daily. If you are feeding it commercially available food, please ensure that the cat is drinking ample water. Please do not switch between brands especially when the kittens are growing they may cause major diarrhoea and damage to the intestine. Follow the same pattern till they are at least 6-7 months old. Excessive feeding can cause bad tummy too or a gas. Make sure the kitten eat on time don’t leave food around the house. Free feeding is a bad habit and should not be enforced.
 
-![sheba-premium-chicken-kitten-wet-cat-food-70g_front_1200x1200.webp](Kitten%20Adoption%20Information%201f708b7fdcab4b7a95b033c95aa1c7c0/sheba-premium-chicken-kitten-wet-cat-food-70g_front_1200x1200.webp)
+![Wet food](1.webp)
 
 ![1-1-cat-8853301140812-whiskas-original-imaehgbhdghhzbyu.webp](Kitten%20Adoption%20Information%201f708b7fdcab4b7a95b033c95aa1c7c0/1-1-cat-8853301140812-whiskas-original-imaehgbhdghhzbyu.webp)
 
