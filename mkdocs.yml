@@ -14,3 +14,31 @@ features:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+plugins:
+  - social
+  - search
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_css:
+  - https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/facebook
+    - icon: fontawesome/brands/linkedin
