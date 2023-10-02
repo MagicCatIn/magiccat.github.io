@@ -1,10 +1,7 @@
 site_name: Magic Cat
 theme:
   name: material
-  palette:
-      primary: white
-      accent: yellow
-features:
+  features:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
@@ -14,6 +11,10 @@ features:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+  language: en
+  palette:
+      primary: white
+      accent: blue
 plugins:
   - social
   - search
