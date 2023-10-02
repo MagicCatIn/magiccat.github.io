@@ -4,3 +4,13 @@ theme:
   palette:
       primary: white
       accent: yellow
+features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
